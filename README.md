@@ -1,6 +1,5 @@
 # Função Funciona?
 
-# Funcao-Funciona
 ### Exercício de Algoritmo e Lógica de Programação com Comandos de Função proposta em Aula no Instituto Proa
 ## Objetivo da Atividade:
     Exercitar e fixar a criação e utilização de funções em código
