@@ -26,7 +26,7 @@ Chame a função três vezes com diferentes conjuntos de valores.
 2) Não acabou não
 Com base na questão acima, repita todo o procedimento, mas adicione e exiba mais dois valores nos argumentos: o nome do pet e a espécie dele. 
 
-Então
+
 - Exiba o resultado na tela com a mensagem: "Batatinha tem X anos em anos de verdade! Um(a) baleia tem uma relação de Y anos de baleia para cada 1 ano humano". (Batatinha, X, baleia e Y são variáveis que serão substituídas)
 
 Chame a função três vezes com diferentes conjuntos de valores.
